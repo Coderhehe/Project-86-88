@@ -26,6 +26,6 @@ function new_img(get_Img) {
         block_object.set({
             top:ply,left:plx
         });
-        canvas.add(block_img_object);
+        canvas.add(block_object);
     });
 }
